@@ -1,6 +1,6 @@
 {
   "name": "capitalize-first-letter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Only capitalize first letter. No cleaning up of whitespaces",
   "keywords": [
     "capitalize",
