@@ -17,5 +17,6 @@
   "license": "MIT",
   "author": "Patrick Ceasar Muñoz",
   "type": "module",
-  "main": "index.js"
+  "main": "index.js",
+  "access": "public"
 }
