@@ -1,5 +1,5 @@
 {
-  "name": "capitalize-first-letter",
+  "name": "@pcmunoz/capitalize-first-letter",
   "version": "1.0.1",
   "description": "Only capitalize first letter. No cleaning up of whitespaces",
   "keywords": [
