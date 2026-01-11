@@ -1,0 +1,21 @@
+{
+  "name": "capitalize-first-letter",
+  "version": "1.0.0",
+  "description": "Only capitalize first letter. No cleaning up of whitespaces",
+  "keywords": [
+    "capitalize",
+    "javascript"
+  ],
+  "homepage": "https://github.com/pcmunoz/capitalize-first-letter#readme",
+  "bugs": {
+    "url": "https://github.com/pcmunoz/capitalize-first-letter/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pcmunoz/capitalize-first-letter.git"
+  },
+  "license": "MIT",
+  "author": "Patrick Ceasar Muñoz",
+  "type": "module",
+  "main": "index.js"
+}
